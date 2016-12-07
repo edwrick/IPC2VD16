@@ -21,6 +21,13 @@ namespace HDT1
             InitializeComponent();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = t1 + " " + t2;
+        }
+
+        
+
         private void button1_Click(object sender, EventArgs e)
         {
             w1.Clear();
