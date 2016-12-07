@@ -26,7 +26,10 @@ namespace HDT1
             label1.Text = t1 + " " + t2;
         }
 
-        
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text + " " + textBox2.Text;
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {

@@ -10,3 +10,9 @@ c:\users\lopez\documents\visual studio 2015\Projects\HDT1\HDT1\obj\Debug\HDT1.pd
 C:\Users\lopez\HT1\HDT1\HDT1\bin\Debug\HDT1.exe.config
 C:\Users\lopez\HT1\HDT1\HDT1\obj\Debug\HDT1.exe
 C:\Users\lopez\HT1\HDT1\HDT1\obj\Debug\HDT1.pdb
+C:\Users\lopez\HT1\HDT1\HDT1\bin\Debug\HDT1.exe
+C:\Users\lopez\HT1\HDT1\HDT1\bin\Debug\HDT1.pdb
+C:\Users\lopez\HT1\HDT1\HDT1\obj\Debug\HDT1.csprojResolveAssemblyReference.cache
+C:\Users\lopez\HT1\HDT1\HDT1\obj\Debug\HDT1.Form1.resources
+C:\Users\lopez\HT1\HDT1\HDT1\obj\Debug\HDT1.Properties.Resources.resources
+C:\Users\lopez\HT1\HDT1\HDT1\obj\Debug\HDT1.csproj.GenerateResource.Cache
