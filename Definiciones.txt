@@ -1,0 +1,12 @@
+¿Qué entiende como "commit"?
+
+	- Intepreto "commit" como un evento que sentencia uno o mas cambios realizados.
+
+¿Qué entiende como "merge"?
+
+	- Combinar o juntar dos o mas elementos con caracteristicas relacionadas.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+
+	- Push nos permite extraer o descargar cambios realizados mientras que push se encarga de la carga de
+	  cambios seleccionados.
