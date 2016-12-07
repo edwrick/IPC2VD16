@@ -14,6 +14,7 @@ namespace HDT1
     {
         ArrayList w1 = new ArrayList();
         ArrayList w2 = new ArrayList();
+        ArrayList r = new ArrayList();
         string t1 = "", t2 = "";
         
         public Form1()
@@ -24,11 +25,23 @@ namespace HDT1
         private void button2_Click(object sender, EventArgs e)
         {
             label1.Text = t1 + " " + t2;
+            r.Add(label1.Text);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             label1.Text = textBox1.Text + " " + textBox2.Text;
+            r.Add(label1.Text);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int counter = r.Count;
+            if (counter >= 2)
+            {
+                label1.Text = r[counter - 2].ToString();
+            }
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -70,6 +83,7 @@ namespace HDT1
                     label1.Text += w2[i];
                 }
             }
+            r.Add(label1.Text);
         }
     }
 }
