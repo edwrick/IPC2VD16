@@ -30,7 +30,7 @@ namespace HDT1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label1.Text = textBox1.Text + " " + textBox2.Text;
+            label1.Text = textBox1.Text + " " + textBox2.Text+"_#201503499";
             r.Add(label1.Text);
         }
 
